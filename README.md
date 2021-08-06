@@ -1,6 +1,6 @@
 ### Hi, I'm lulu. 👋
 
-I'm a cver work in baidu, focus on detection, classification, recognition, segmentation, also interested in Gan, NLP.
+I'm a cver work， focus on detection, classification, recognition, segmentation, also interested in Gan, NLP.
 
 like code, like share.
 
