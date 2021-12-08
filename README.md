@@ -2,10 +2,6 @@
 
 I'm a cver focus on detection, classification, recognition, segmentation, also interested in Gan, NLP.
 
-like code, like share.
-
-诗酒趁年华.
-
 [personal blog](http:note4lin.top)
 
 ![](https://github-readme-stats.vercel.app/api?username=yl305237731&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
