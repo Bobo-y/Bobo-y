@@ -4,7 +4,7 @@ I'm a cver focus on detection, classification, recognition, segmentation, also i
 
 [personal blog](http:note4lin.top)
 
-![](https://github-readme-stats.vercel.app/api?username=yl305237731&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![](https://github-readme-stats.vercel.app/api?username=Bobo-y&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 <!--
 **yl305237731/yl305237731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
