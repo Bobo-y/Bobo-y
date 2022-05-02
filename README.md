@@ -1,4 +1,4 @@
-### Hi, I'm LinY. 👋
+### Hi, 👋
 
 I'm a cver focus on detection, classification, recognition, segmentation, also interested in Gan, NLP.
 
