@@ -2,7 +2,6 @@
 
 I'm a cver focus on detection, classification, recognition, segmentation, also interested in Gan, NLP.
 
-[personal blog](http:note4lin.top)
 
 ![](https://github-readme-stats.vercel.app/api?username=Bobo-y&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
